@@ -3,7 +3,6 @@ import sys
 import maya.OpenMaya as OpenMaya
 import maya.OpenMayaMPx as OpenMayaMPx
 import math
-import plugin
 
 NODE_NAME = 'mirrorMatrix'
 NODE_ID = OpenMaya.MTypeId(0x0012F1C0)
